@@ -284,8 +284,7 @@ display: flex;
 }
 .social-network{
     display: flex;
-    gap: 24px;  
-    margin-top: 8px;
+        margin-top: 8px;
     align-items: center;
     justify-content: center;
     gap: 24px;
@@ -308,7 +307,7 @@ display: flex;
 
 .social-network-list-link:hover,
 .social-network-list-link:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 .social-network-list-item {
     display: block;
